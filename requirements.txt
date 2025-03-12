@@ -1,0 +1,8 @@
+librosa
+matplotlib
+numpy
+psutil
+scipy
+torch
+torchvision
+tqdm
